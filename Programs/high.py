@@ -1,0 +1,1 @@
+print("OIMB HIGH AS FFFFUUUKKK")
